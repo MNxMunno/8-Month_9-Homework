@@ -33,9 +33,9 @@ const Header = () => {
               viewBox="0 0 24 24"
               fill="none"
               stroke="#fff"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="arcs"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="arcs"
             >
               <line x1="3" y1="12" x2="21" y2="12"></line>
               <line x1="3" y1="6" x2="21" y2="6"></line>
@@ -59,9 +59,9 @@ const Header = () => {
               viewBox="0 0 24 24"
               fill="none"
               stroke="#fff"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="arcs"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="arcs"
             >
               <circle cx="11" cy="11" r="8"></circle>
               <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
